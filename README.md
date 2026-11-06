@@ -1,3 +1,8 @@
+> **foxnaim** · Подборка открытых материалов о том, как компании практикуют SRE
+>
+> Готовая основа под клиентский проект. Стек: JavaScript.
+> Лицензия CC0-1.0 сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # How they SRE
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) [![CI](https://github.com/upgundecha/howtheysre/actions/workflows/workflow.yml/badge.svg)](https://github.com/upgundecha/howtheysre/actions/workflows/workflow.yml) [![CodeQL](https://github.com/upgundecha/howtheysre/actions/workflows/codeql.yml/badge.svg)](https://github.com/upgundecha/howtheysre/actions/workflows/codeql.yml)
